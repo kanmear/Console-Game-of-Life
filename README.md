@@ -1,5 +1,5 @@
 # Console-Game-of-Life
-A cellular automata, known as "Conway's Game of Life", made in Python and visualised in IPython Console. Preview in the end.
+A cellular automata, known as "Conway's Game of Life", made in Python and visualised in IPython Console. Gif preview in the end.
 
 A simplistic (under 100 lines of code without comments and docstrings) implementation of a well-known cellular automata (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
